@@ -36,4 +36,17 @@ Curl 1 Strength / Curl 2 Strength / Tiling1 / Tiling2    지형 변화
 블루프린트로 만든 레이어 이외에  추가 레이어를 통해
 지형 추가 및 편집
 
+
+## 랜드스케이프에 텍스쳐(지형 에셋) 추가
+
+![image](https://user-images.githubusercontent.com/80494367/118230382-8c958480-b4c8-11eb-99ea-ca809c7aad14.png)
+
+지형에 메탈감 없기에  상수 1로 고정   
+
    
+지형 칠할때  각  텍스트의 숫자에 맞게  지형 그리기 (중간값 입력 시 섞여서)
+
+
+![image](https://user-images.githubusercontent.com/80494367/118239119-54943e80-b4d4-11eb-8310-147c4f822212.png)
+
+레이어에 각각의 이름을 저장
