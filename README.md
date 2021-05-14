@@ -23,3 +23,17 @@ FBX / OBJ로  Explosion
 
 ![image](https://user-images.githubusercontent.com/80494367/118204035-46c0c800-b498-11eb-9652-b37d5badcf07.png)
 
+
+
+![image](https://user-images.githubusercontent.com/80494367/118221453-931c0000-b4b8-11eb-82da-5c03e11a1a37.png)
+
+Curl 1 Strength / Curl 2 Strength / Tiling1 / Tiling2    지형 변화
+
+
+
+![image](https://user-images.githubusercontent.com/80494367/118224087-65858580-b4bd-11eb-8356-5a6ea3b446ec.png)
+
+블루프린트로 만든 레이어 이외에  추가 레이어를 통해
+지형 추가 및 편집
+
+   
